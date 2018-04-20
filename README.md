@@ -6,13 +6,13 @@ A curated list of playgrounds where you can test snippets online.
 - [Wandbox](https://wandbox.org) ([Source Code](https://github.com/melpon/wandbox))
 
 ## Dart
-- [DartPad](https://dartpad.dartlang.org) ([Source Code](https://github.com/dart-lang/dart-pad))
+- [DartPad](https://dartpad.dartlang.org) (Official / [Source Code](https://github.com/dart-lang/dart-pad))
 
 ## Elm
-- [Try Elm](http://elm-lang.org/try) ([Source Code](https://github.com/elm-lang/elm-lang.org))
+- [Try Elm](http://elm-lang.org/try) (Official / [Source Code](https://github.com/elm-lang/elm-lang.org))
 
 ## Go
-- [The Go Playground](https://play.golang.org) ([Source Code](https://go.googlesource.com/playground))
+- [The Go Playground](https://play.golang.org) (Official / [Source Code](https://go.googlesource.com/playground))
 
 ## Groovy
 - [Groovy web console](https://groovyconsole.appspot.com) ([Source Code](https://github.com/glaforge/groovywebconsole))
@@ -25,25 +25,25 @@ A curated list of playgrounds where you can test snippets online.
 - [JSFiddle](https://jsfiddle.net)
 
 ## JavaScript
-- [Babel REPL](https://babeljs.io/repl/) ([Source Code](https://github.com/babel/website))
+- [Babel REPL](https://babeljs.io/repl/) (Official / [Source Code](https://github.com/babel/website))
 
 ## Kotlin
-- [Try Kotlin](https://try.kotlinlang.org/) ([Source Code](https://github.com/JetBrains/kotlin-web-demo))
+- [Try Kotlin](https://try.kotlinlang.org/) (Official / [Source Code](https://github.com/JetBrains/kotlin-web-demo))
 
 ## PureScript
-- [Try PureScript!](http://try.purescript.org/) ([Source Code](https://github.com/purescript/trypurescript))
+- [Try PureScript!](http://try.purescript.org/) (Official / [Source Code](https://github.com/purescript/trypurescript))
 
 ## Python
 - [Python.org Shell](https://www.python.org/shell/)
 
 ## Rust
-- [Rust Playground](https://play.rust-lang.org) ([Source Code](https://github.com/integer32llc/rust-playground))
+- [Rust Playground](https://play.rust-lang.org) (Official / [Source Code](https://github.com/integer32llc/rust-playground))
 
 ## Scala
-- [Scastie](https://scastie.scala-lang.org) ([Source Code](https://github.com/scalacenter/scastie))
+- [Scastie](https://scastie.scala-lang.org) (Official / [Source Code](https://github.com/scalacenter/scastie))
 
 ## Swift
 - [SwiftPlayground.run](http://online.swiftplayground.run) ([Source Code](https://github.com/krzyzanowskim/OnlineSwiftPlayground))
 
 ## TypeScript
-- [Playground](https://www.typescriptlang.org/play/)
+- [Playground](https://www.typescriptlang.org/play/) (Official)
