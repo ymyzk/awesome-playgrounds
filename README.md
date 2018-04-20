@@ -30,6 +30,9 @@ A curated list of playgrounds where you can test snippets online.
 ## Kotlin
 - [Try Kotlin](https://try.kotlinlang.org/) (Official / [Source Code](https://github.com/JetBrains/kotlin-web-demo))
 
+## Lua
+- [Lua: demo](https://www.lua.org/demo.html) (Official)
+
 ## PureScript
 - [Try PureScript!](http://try.purescript.org/) (Official / [Source Code](https://github.com/purescript/trypurescript))
 
