@@ -56,6 +56,9 @@ A curated list of playgrounds where you can test snippets online.
 - [Jupyter Notebook](https://jupyter.org/try)
 - [Black](https://black.vercel.app/) ([Source Code](https://github.com/jpadilla/black-playground))
 
+## Rego
+- [Rego Playground](https://play.openpolicyagent.org/) (Official)
+
 ## Rust
 - [Rust Playground](https://play.rust-lang.org) (Official / [Source Code](https://github.com/integer32llc/rust-playground))
 
